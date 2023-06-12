@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/문자열 내 p 와 y 의 개수.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/자연수 뒤집어배열로 만들기.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,11 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -33,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686492954917</updated>
       <workItem from="1686492956371" duration="99000" />
+      <workItem from="1686569627200" duration="324000" />
     </task>
     <servers />
   </component>
