@@ -1,0 +1,47 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>출력결과</title>
+</head>
+<body>
+<script>
+    const sol=(s)=>{
+        console.log(s);
+
+        s=s.toLowerCase().replace(/[a-z]/g,"")
+
+        if(s[0]==='0'){
+            s=s.slice(1);
+        }
+        return s;
+    }
+
+    let str="g0en2T0s8eSoft";
+    console.log(sol(str));
+</script>
+</body>
+</html>
+
+
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>출력결과</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<script>-->
+<!--    function solution(str){-->
+<!--        let answer="";-->
+<!--        for(let x of str){-->
+<!--            if(!isNaN(x)) answer+=x;-->
+<!--isNaN 숫자가 아니면 참  숫자면 거짓-->
+<!-- parseInt() 정수로 바꿈-->
+<!--        }-->
+<!--        return parseInt(answer);-->
+<!--    }-->
+
+<!--    let str="g0en2T0s8eSoft";-->
+<!--    console.log(solution(str));-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->

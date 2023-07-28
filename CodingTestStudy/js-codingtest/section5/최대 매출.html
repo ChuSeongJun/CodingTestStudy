@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>출력결과</title>
+</head>
+<body>
+<script>
+
+    const sol=(n,a)=>{
+        let answer=0;
+
+        let sum=0;
+
+            for (let lt=0; lt<n; lt++){
+                sum+=a[lt];
+                answer=sum;
+            }
+            for(let lt=n; lt<a.length; lt++){
+                sum+=(a[lt]-a[lt=n]);
+                answer=Math.max(sum,answer);
+            }
+
+
+
+
+
+
+        return answer;
+    }
+
+    let a=[12, 15, 11, 20, 25, 10, 20, 19, 13, 15];
+    console.log(sol(3, a));
+</script>
+</body>
+</html>

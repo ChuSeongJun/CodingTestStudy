@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>출력결과</title>
+    </head>
+    <body>
+        <script>
+            function solution(a, b, c) {
+                let long;
+                let short1, short2;
+                if (a < b) (long = b), (short1 = a), (short2 = c);
+                else (long = a), (short1 = b), (short2 = c);
+                if (long < c) (long = c), (short1 = a), (short2 = b);
+
+                if (long < short1 + short2) console.log("YES");
+                else console.log("NO");
+            }
+            console.log(solution(6, 7, 11));
+        </script>
+    </body>
+</html>
+
+<!-- 솔류션 -->
+
+<!-- <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>출력결과</title>
+    </head>
+    <body>
+        <script>
+            function solution(a, b, c){
+                let answer="YES", max;
+                let tot=a+b+c;
+                if(a>b) max=a;
+                else max=b;
+                if(c>max) max=c;
+                if(tot-max<=max) answer="NO"; 
+                return answer;
+            }
+
+            console.log(solution(13, 33, 17));
+        </script>
+    </body>
+</html> -->

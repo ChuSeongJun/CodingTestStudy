@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>출력결과</title>
+  </head>
+  <body>
+    <script>
+      const sol = (s) => {
+        let result = "YES";
+        let list = [];
+
+        for (let x of s) {
+          if (x === "(") {
+            list.push(x);
+          } else {
+            if (list.length !== 0) {
+              return "NO";
+            }
+            list.pop();
+          }
+        }
+        if (list.length === 0) {
+          return result;
+        }
+      };
+
+      let a = "(()(()))(()";
+      console.log(sol(a));
+    </script>
+  </body>
+</html>
