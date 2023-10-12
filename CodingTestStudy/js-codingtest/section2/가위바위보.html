@@ -7,27 +7,20 @@
   <body>
     <script>
       const sol = (a,b)=>{
-
-        let array=[];
-        for ( let i=0; i<a.length; i++){
-          if (a[i]===b[i]) {
-            array.push('D');
+        let list=[];
+        for (let i=0; i<a.length; i++){
+          if(a[i]===b[i]){
+            list.push('D')
           }
-            else if(a[i]===1 &&b [i]===3){
-              array.push('A');
-          }
-          else if(a[i]===2 &&b [i]===1){
-            array.push('A');
-          }
-          else if(a[i]===3 &&b [i]===2){
-            array.push('A');
-          }
-          else {
-            array.push('B')
-          }
-          }
-
-        return array;
+          else if(a[i]===1&&b[i]===2){
+            list.push('B')
+          }else if(a[i]===3&&b[i]===2){
+            list.push('B')
+          }else if(a[i]===2 && b[i]===1){
+            list.push('B')
+          }else list.push('A')
+        }
+        return list
       }
 
       let a=[2,3,3,1,3];

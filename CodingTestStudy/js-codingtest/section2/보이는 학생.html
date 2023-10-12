@@ -6,19 +6,16 @@
     <body>
         <script>
             const sol =(list)=>{
-
+                console.log(list)
+                let len=list.length;
                 let result=0
-
-                for (let i=1; i<list.length; i++){
+                for (let i=1; i<len; i++){
                     if(list[i-1]<list[i]){
-                        result+=1;
+                        result++
                     }
                 }
-
-
-                return result;
+                return result
             }
-
             let list=[130,135,148,140,145,150,150,153]
             console.log(sol(list));
         </script>
