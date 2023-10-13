@@ -6,14 +6,17 @@
 <body>
 <script>
     const sol=(s)=>{
-        console.log(s);
 
-        s=s.toLowerCase().replace(/[a-z]/g,"")
-
-        if(s[0]==='0'){
-            s=s.slice(1);
+        let result=0;
+        for (let i of s){
+            if(!isNaN(i)){
+                result+=i
+            }
         }
-        return s;
+        result=parseInt(result);
+
+
+        return result;
     }
 
     let str="g0en2T0s8eSoft";

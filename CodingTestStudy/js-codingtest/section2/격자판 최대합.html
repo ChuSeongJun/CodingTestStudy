@@ -5,29 +5,29 @@
 </head>
 <body>
 <script>
-    const sol = (array)=>{
+    const sol = (arr)=>{
+        let result=0;
+        let sum1=0
+        let sum2=0;
+        let len=arr[0].length;
 
-        let answer=Number.MIN_SAFE_INTEGER;
-        let length=array.length;
-        let sum1=sum2=0;
-
-        for (let i=0; i<length; i++){
-            sum1=sum2=0
-            for (let j=0; j<length; j++){
-                sum1+=array[i][j];
-                //행 고정후 열을 탐색
-                sum2+=array[j][i];
-                //열 고정후 행을 탐색
+        for(let i=0; i<len; i++){
+            sum1=0;
+            sum2=0;
+            for(let j=0; j<len; j++){
+                sum1+=arr[i][j]
+                sum2+=arr[j][i]
             }
-            answer=Math.max(answer,sum1,sum2);
+            result=Math.max(result,sum1,sum2)
         }
-        sum1=sum2=0
-        for (let i=0; i<length; i++){
-            sum1+=array[i][i];
-            sum2+=array[i][length-i-1]
+        sum1=0;
+        sum2=0;
+        for(let i=0; i<len; i++){
+            sum1+=arr[i][i];
+            sum2+=arr[i][len-i-1];
         }
-        answer=Math.max(answer,sum1,sum2);
-        return answer;
+        result=Math.max(result,sum1,sum2)
+        return result
     }
 
     let array=[[10, 13, 10, 12, 15],
