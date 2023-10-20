@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/격자판 최대합.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/격자판 최대합.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,8 @@
       <workItem from="1697032488564" duration="1011000" />
       <workItem from="1697107169168" duration="2484000" />
       <workItem from="1697111508988" duration="5000" />
-      <workItem from="1697129279185" duration="1297000" />
+      <workItem from="1697129279185" duration="5503000" />
+      <workItem from="1697631552712" duration="773000" />
     </task>
     <servers />
   </component>
