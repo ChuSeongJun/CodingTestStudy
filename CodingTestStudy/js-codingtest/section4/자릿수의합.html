@@ -6,31 +6,26 @@
 <body>
 <script>
     const sol=(n,s) =>{
-        let max=0;
-        let sum=0;
-        let eachNum=0;
-        let answer=0;
-        let eachNum2=0;
-
-        for(let i=0; i<n; i++){
-            eachNum=s[i]
-            eachNum2=eachNum.toString().split("")
-            for(let j=0; j<eachNum2.length; j++){
-                sum+=Number(eachNum2[j])
+        let result;
+        let max=Number.MIN_SAFE_INTEGER;
+        for( let i of s){
+            let sum=0;
+            let tmp=i;
+            while(tmp){
+                sum+=tmp%10;
+                tmp=Math.floor(tmp/10);
             }
-            max=Math.max(max,sum)
             if(sum>max){
-                answer=eachNum;
+                max=sum;
+                result=i
             }
-            else if(sum===max){
-                if(eachNum>answer){
-                    answer=eachNum
-                }
+            else if (sum===max){
+                if(i>result)
+                    result=i
             }
-            sum=0;
-        }
 
-        return answer;
+        }
+return result
     }
 
     let arr=[128, 460, 603, 40, 521, 137, 123];
