@@ -6,17 +6,23 @@
 <body>
 <script>
     const sol =(a,b)=>{
-        console.log(a,b);
+        let p1=0;
+        let p2=0;
         let result=[];
-        for (let i=0; i<a.length; i++){
-            result.push(a[i]);
-        }
-        for (let j=0; j<b.length; j++){
-            result.push(b[j]);
-        }
+        let len1=a.length;
+        let len2=b.length;
 
-        let answer=Array.from(result).sort((a,b)=>a-b);
-        console.log(answer);
+        while(p1<len1 && p2<len2){
+            if(a[p1]<=b[p2]){
+                result.push(a[p1++])
+            }else{
+                result.push(b[p2++])
+            }
+        }
+        while(p1<len1) result.push(a[p1++]);
+        while(p2<len2) result.push(b[p2++]);
+
+        return result
     }
 
 

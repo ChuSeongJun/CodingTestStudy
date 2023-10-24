@@ -6,25 +6,7 @@
 <body>
 <script>
     const sol = (n,a) =>{
-        console.log(n,a)
-        let answer=0;
-        let sum=0;
-        let lt=0;
-        for (let rt=0; rt<a.length; rt++){
-            sum+=a[rt];
-
-            if(sum===n){
-                answer++;
-            }
-            while(sum>=n){
-                sum-=a[lt++]
-                if(sum===n){
-                    answer++
-                }
-            }
-        }
-
-        return answer;
+        
 
     }
 
