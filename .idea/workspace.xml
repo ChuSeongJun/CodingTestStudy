@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/연속 부분수열 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/연속 부분수열 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/연속 부분수열 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/연속 부분수열 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/최대 매출.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section5/최대 매출.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
       <workItem from="1697895769994" duration="91000" />
       <workItem from="1697908487915" duration="4952000" />
       <workItem from="1698156926459" duration="5369000" />
+      <workItem from="1698320386388" duration="3142000" />
     </task>
     <servers />
   </component>
