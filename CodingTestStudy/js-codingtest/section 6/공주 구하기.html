@@ -6,16 +6,18 @@
   <body>
     <script>
       const sol = (n, k) => {
-        let answer = 0;
-        let queue = Array.from({ length: n }, (v, i) => i + 1);
-        while (queue.length) {
-          for (let i = 1; i < k; i++) {
-            queue.push(queue.shift());
-          }
-          queue.shift();
-          if (queue.length === 1) answer = queue.shift();
+        let result=0;
+        let queue=Array.from({length:n}, (v, i)=> i+1)
+
+        while(queue.length){
+          for(let i=1; i<k; i++)
+            queue.push(queue.shift())
+          queue.shift()
+          if(queue.length===1)
+            result=queue.shift()
         }
-        return answer;
+
+        return result
       };
 
       console.log(sol(8, 3));
