@@ -6,8 +6,14 @@
 <body>
 <script>
     function solution(arr){
-        let result=arr;
+        let result=[]
 
+        for (let x of arr){
+            if(x<0) result.push(x)
+        }
+        for(let x of arr){
+            if(x>=0) result.push(x)
+        }
 
 
         return result

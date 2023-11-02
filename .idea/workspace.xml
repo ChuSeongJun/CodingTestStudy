@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/삽입정렬.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/장난꾸러기 현수.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/카카오 캐시 문제변형.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 6/교육과정 설계.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 6/교육과정 설계.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/Special Sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/Special Sort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/버블정렬.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/버블정렬.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/선택 정렬.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 7/선택 정렬.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
       <workItem from="1697908487915" duration="4952000" />
       <workItem from="1698156926459" duration="5369000" />
       <workItem from="1698320386388" duration="26917000" />
+      <workItem from="1698933633296" duration="2299000" />
     </task>
     <servers />
   </component>
