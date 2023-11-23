@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="" />
+    <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/이진 변환 반복하기.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +78,7 @@
       <workItem from="1698933633296" duration="9748000" />
       <workItem from="1699016272088" duration="15331000" />
       <workItem from="1699280478552" duration="8453000" />
+      <workItem from="1700663145587" duration="663000" />
     </task>
     <servers />
   </component>
