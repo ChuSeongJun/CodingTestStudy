@@ -5,7 +5,7 @@ function solution(k, tangerine) {
     let object={};
 
     tangerine.forEach((n)=>{
-        object[n]= ++object[n] || 1;
+        object[n]= ((object[n] || 0) +1)
     })
 
     let array=Object.values(object).sort((a,b)=> b-a);

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/n개의 최소공배수.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <workItem from="1699016272088" duration="15331000" />
       <workItem from="1699280478552" duration="8453000" />
       <workItem from="1700663145587" duration="13665000" />
-      <workItem from="1701342367196" duration="4444000" />
+      <workItem from="1701342367196" duration="5559000" />
     </task>
     <servers />
   </component>
