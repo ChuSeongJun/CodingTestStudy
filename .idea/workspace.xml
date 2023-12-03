@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/n개의 최소공배수.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/연속 부분 수열 합의 개수.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +46,16 @@
       <recent name="$PROJECT_DIR$/프로그래머스/level 2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.연속 부분 수열 합의 개수.js">
+    <configuration name="연속 부분 수열 합의 개수.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/연속 부분 수열 합의 개수.js" working-dir="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2">
+      <method v="2" />
+    </configuration>
     <configuration name="귤 고르기.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" working-dir="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.연속 부분 수열 합의 개수.js" />
         <item itemvalue="Node.js.귤 고르기.js" />
       </list>
     </recent_temporary>
@@ -92,6 +95,7 @@
       <workItem from="1699280478552" duration="8453000" />
       <workItem from="1700663145587" duration="13665000" />
       <workItem from="1701342367196" duration="5559000" />
+      <workItem from="1701525064154" duration="5530000" />
     </task>
     <servers />
   </component>
