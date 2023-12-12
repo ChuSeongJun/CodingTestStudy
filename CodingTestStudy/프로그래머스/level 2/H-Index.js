@@ -1,6 +1,6 @@
 function solution(citations) {
     let answer = 0;
-    
+
 
 
 
