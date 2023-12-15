@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/H-Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/H-Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
@@ -98,6 +99,8 @@
       <workItem from="1701671645229" duration="4624000" />
       <workItem from="1701837062227" duration="1222000" />
       <workItem from="1702016590065" duration="2441000" />
+      <workItem from="1702386028737" duration="13000" />
+      <workItem from="1702386478132" duration="105000" />
     </task>
     <servers />
   </component>
