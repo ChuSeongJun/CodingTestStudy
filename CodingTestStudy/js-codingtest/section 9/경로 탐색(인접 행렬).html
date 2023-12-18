@@ -21,6 +21,7 @@
             else{
                 for(let i=1; i<=n; i++){
                     if(graph[v][i]===1 && ch[i]===0){
+                        //갈수있느냐? 방문이 안되었느냐?
                         ch[i]=1;
                         path.push(i);
                         DFS(i);
