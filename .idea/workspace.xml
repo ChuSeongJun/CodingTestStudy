@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 10/계단오르기.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 10/돌다리건너기.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +106,7 @@
       <workItem from="1702913207923" duration="56000" />
       <workItem from="1703079591311" duration="115000" />
       <workItem from="1703342482394" duration="49000" />
+      <workItem from="1703408938332" duration="12000" />
     </task>
     <servers />
   </component>
