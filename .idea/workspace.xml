@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="" />
+    <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 10/계산기.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/코딩테스트.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 1/일곱 난쟁이.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 1/일곱 난쟁이.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/보이는 학생.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/보이는 학생.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,35 +30,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 디버그.대문자 찾기.html.executor": "Run",
+    "Node.js.연속 부분 수열 합의 개수.js.executor": "Run",
+    "Node.js.코딩테스트.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore_missing_gitignore": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/프로그래머스/level 1" />
       <recent name="$PROJECT_DIR$/프로그래머스/level 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.연속 부분 수열 합의 개수.js">
+  <component name="RunManager" selected="JavaScript 디버그.대문자 찾기.html">
+    <configuration name="대문자 찾기.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CodingTestStudy/CodingTestStudy/js-codingtest/section 1/대문자 찾기.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="연속 부분 수열 합의 개수.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/연속 부분 수열 합의 개수.js" working-dir="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2">
       <method v="2" />
     </configuration>
     <configuration name="귤 고르기.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/귤 고르기.js" working-dir="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2">
       <method v="2" />
     </configuration>
+    <configuration name="코딩테스트.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/코딩테스트.js" working-dir="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 디버그.대문자 찾기.html" />
+        <item itemvalue="Node.js.코딩테스트.js" />
         <item itemvalue="Node.js.연속 부분 수열 합의 개수.js" />
         <item itemvalue="Node.js.귤 고르기.js" />
       </list>
@@ -109,6 +126,9 @@
       <workItem from="1703947206853" duration="29000" />
       <workItem from="1704120679326" duration="624000" />
       <workItem from="1704378298975" duration="628000" />
+      <workItem from="1704633999576" duration="641000" />
+      <workItem from="1705383592241" duration="162000" />
+      <workItem from="1705464022457" duration="6763000" />
     </task>
     <servers />
   </component>
