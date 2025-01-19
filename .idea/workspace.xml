@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 10/계산기.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTestStudy/프로그래머스/level 2/코딩테스트.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 1/일곱 난쟁이.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section 1/일곱 난쟁이.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/보이는 학생.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTestStudy/js-codingtest/section2/보이는 학생.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,7 @@
       <workItem from="1704378298975" duration="628000" />
       <workItem from="1704633999576" duration="641000" />
       <workItem from="1705383592241" duration="162000" />
-      <workItem from="1705464022457" duration="6763000" />
+      <workItem from="1705464022457" duration="7309000" />
     </task>
     <servers />
   </component>
