@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a095148b-0b91-4b01-818b-18a70860b756" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/.idea/프로그래머스.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 0/덧셈식 출력하기.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/x만큼 간격이 있는 n개의 숫자.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/나머지가 1이 되는 수 찾기.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/문자열 내 p 와 y 의 개수.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/약수의 합.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/자리수 더하기.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/자연수 뒤집어배열로 만들기.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/짝수와 홀수.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/최댓값과 최솟값.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/추억 점수.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 1/평균 구하기.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 2/JadenCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 2/뉴스 클러스터링.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 2/올바른 괄호.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../개인 공부/codingTestStudy/프로그래머스/level 2/최솟값 만들기.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +33,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../개인 공부/codingTestStudy" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ChuSeongJun/CodingTestStudy.git",
+    "accountId": "fa46773d-ecce-47ca-a9a2-724dc9f06a41"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,12 +57,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "JavaScript 디버그.대문자 찾기.html.executor": "Run",
     "Node.js.연속 부분 수열 합의 개수.js.executor": "Run",
     "Node.js.코딩테스트.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,6 +103,13 @@
         <item itemvalue="Node.js.귤 고르기.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -125,6 +165,7 @@
       <workItem from="1704633999576" duration="641000" />
       <workItem from="1705383592241" duration="162000" />
       <workItem from="1705464022457" duration="7309000" />
+      <workItem from="1740303550923" duration="62000" />
     </task>
     <servers />
   </component>
