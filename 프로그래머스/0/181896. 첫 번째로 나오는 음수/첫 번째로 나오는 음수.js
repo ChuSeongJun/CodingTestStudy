@@ -11,3 +11,9 @@ function solution(num_list) {
         }
     }
 }
+
+// 다른 사람 풀이
+
+function solution(num_list) {
+    return num_list.findIndex((num) => num < 0);
+}
