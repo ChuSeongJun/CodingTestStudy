@@ -1,10 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>출력결과</title>
-    </head>
-    <body>
-        <script>
+
             function solution(a, b, c) {
                 let answer = "YES",
                     max;
@@ -22,7 +16,5 @@
                 return answer;
             }
 
-            console.log(solution(6, 7, 11));
-        </script>
-    </body>
-</html>
+            console.log(solution(13, 33, 17));
+
